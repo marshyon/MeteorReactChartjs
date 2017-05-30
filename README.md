@@ -2,7 +2,7 @@
 
 ## Meteor + React + Chartjs
 
-Example App, keeping things as simple as possible and demonstrating the use of ChartJS with Meteor + React
+Example App, keeping things as simple as possible and demonstrating the use of ChartJS with Meteor + React. The react-chartjs-2 wrapper is used, being the most recent and up to date found of it's kind.
 
 Install meteor of not already done - see www.meteor.com
 
